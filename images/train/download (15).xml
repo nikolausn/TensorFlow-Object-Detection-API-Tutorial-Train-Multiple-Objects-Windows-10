@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hedgehog</folder>
+	<filename>download (15).jpeg</filename>
+	<path>C:\Users\BHR7J46\Downloads\hedgehog\download (15).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>290</width>
+		<height>174</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hedgehog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>7</ymin>
+			<xmax>272</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
