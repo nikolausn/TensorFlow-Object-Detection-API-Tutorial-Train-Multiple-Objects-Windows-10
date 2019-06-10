@@ -29,6 +29,9 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
+    if row_label == 'hedgehog':
+        return 1
+    """
     if row_label == 'nine':
         return 1
     elif row_label == 'ten':
@@ -43,6 +46,8 @@ def class_text_to_int(row_label):
         return 6
     else:
         None
+        
+    """
 
 
 def split(df, group):
